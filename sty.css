@@ -1,0 +1,71 @@
+.image_body{
+	background: url(images/diu.jpg) no-repeat center center;
+	background-size: cover;
+	background-attachment: fixed;  
+}
+ 
+
+.logo{
+	height: 30px
+}
+ 
+
+.navbar-invers{
+	background:rgba(0,0,0,0.5); 
+}
+.nav li{
+	color: #fff!important;
+	font-size: 17px;
+	margin-right: 35px;
+	padding: 10px 0;
+}
+.nav li :hover{
+	border-bottom: 1px solid #00FFBB;
+	padding-bottom: 9px;
+}
+.box{
+	text-align: center;
+	margin: 0;
+	padding:px;
+	text-decoration-color: white;
+}
+
+.box h1{
+	font-size: 53px;
+	letter-spacing: 2.5px;
+}
+.bodyimage{
+	height: 100px;
+}
+.icon {
+	/*color: white;*/
+	font-size: 15px; 
+
+}
+
+.icon p{
+	font-size: 15px;
+}
+.contect{
+	text-align:center; 
+	margin-top: 40px;
+	margin-bottom: 100px;
+}
+@media (max-width: 768px){
+	.bodyimage{
+		height: 70px;
+	}
+}
+ 
+
+ .width-110{
+ 	width: 150px!important;
+	 margin-bottom: 10px!important;
+ }
+.k{
+	margin-bottom: 0px!important;
+	margin-top: 0px!important;
+	border-top: 1px solid green!important;
+}
+
+ 
